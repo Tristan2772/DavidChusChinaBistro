@@ -1,0 +1,1734 @@
+{
+    "Soup Menu": [
+        {
+            "name" : "Won Ton Soup with Chicken",
+            "image" : "img/soups/A1.jpg",
+            "code" : "A1",
+            "info" : "chicken-stuffed won tons in clear chicken broth with white meat chicken pieces and a few scallions",
+            "has2prices": true, 
+            "price1" : "5.75",
+            "label1" : "pint",
+            "price2" : "11.50",
+            "label2" : "quart"
+        },
+        {
+            "name" : "Egg Drop Soup",
+            "image" : "img/soups/A2.jpg",
+            "code" : "A2",
+            "info" : "chicken broth with egg drop",
+            "has2prices": true, 
+            "price1" : "5.75",
+            "label1" : "pint",
+            "price2" : "11.50",
+            "label2" : "quart"
+        }, 
+        {
+            "name" : "Chicken Corn Soup",
+            "image" : "img/soups/A3.jpg",
+            "code" : "A3",
+            "info" : "clear chicken broth with creamy corn and egg drop with white meat chicken pieces",
+            "has2prices": true, 
+            "price1" : "5.75",
+            "label1" : "pint",
+            "price2" : "11.50",
+            "label2" : "quart"
+        },
+        {
+            "name" : "Hot and Sour Soup",
+            "image" : "img/soups/A4.jpg",
+            "code" : "A4",
+            "info" : "tofu, chicken, mushroom, bamboo shoot, and egg",
+            "has2prices": true, 
+            "price1" : "5.75",
+            "label1" : "pint",
+            "price2" : "11.50",
+            "label2" : "quart"
+        },
+        {
+            "name" : "Egg Drop with Won Ton Soup",
+            "image" : "img/soups/A5.jpg",
+            "code" : "A5",
+            "info" : "chicken soup with egg drop and won tons",
+            "has2prices": true, 
+            "price1" : "6.75",
+            "label1" : "pint",
+            "price2" : "13.50",
+            "label2" : "quart"
+        },
+        {
+            "name" : "Chicken Noodle (or Rice) Soup",
+            "image" : "img/soups/A6.jpg",
+            "code" : "A6",
+            "info" : "clear broth and lo mein noodles or white rice, chicken pieces",
+            "has2prices": true, 
+            "price1" : "6.25",
+            "label1" : "pint",
+            "price2" : "12.50",
+            "label2" : "quart"
+        },
+        {
+            "name" : "Garden Vegetable Soup",
+            "image" : "img/soups/A7.jpg",
+            "code" : "A7",
+            "info" : "clear chicken broth with mixed vegetables (carrots, cabbage, baby corn, mushroom, snow peas)",
+            "has2prices": true, 
+            "price1" : "6.25",
+            "label1" : "pint",
+            "price2" : "12.50",
+            "label2" : "quart"
+        },
+        {
+            "name" : "Garden Vegetable Soup with Tofu",
+            "image" : "img/soups/A8.jpg",
+            "code" : "A8",
+            "info" : "clear chicken broth with mixed vegetables (carrots, cabbage, baby corn, mushroom, snow peas) with tofu pieces",
+            "has2prices": true, 
+            "price1" : "6.75",
+            "label1" : "pint",
+            "price2" : "13.50",
+            "label2" : "quart"
+        },
+        {
+            "name" : "Chicken with Garden Vegetable Soup",
+            "image" : "img/soups/A9.jpg",
+            "code" : "A9",
+            "info" : "clear chicken broth with mixed vegetables (carrots, cabbage, baby corn, mushroom, snow peas) and chicken pieces",
+            "has2prices": true, 
+            "price1" : "6.75",
+            "label1" : "pint",
+            "price2" : "13.50",
+            "label2" : "quart"
+        },
+        {
+            "name" : "Hong Kong Style Won Ton Soup",
+            "image" : "img/soups/A10.jpg",
+            "code" : "A10",
+            "info" : "clear chicken broth with carrots, mushrooms, snow peas, and broccoli, and a few pieces of Hong Kong style won tons",
+            "has2prices": true, 
+            "price1" : "7.75",
+            "label1" : "pint",
+            "price2" : "15.50",
+            "label2" : "quart"
+        },
+        {
+            "name" : "Young Chow Won Ton Soup (for 2)",
+            "image" : "img/soups/A11.jpg",
+            "code" : "A11",
+            "info" : "clear chicken broth with vegetables, veal, chicken, and beef and won tons",
+            "has2prices": false,
+            "price1" : "20.95"
+        }
+    ],
+    "Lunch Menu" : [
+        {
+            "name" : "Orange Chicken",
+            "image" : "img/lunch/L1.jpg",
+            "code" : "L1",
+            "info" : "chunks of chicken, breaded and deep-fried with sauce containing orange peels; white meat by request, $1 more for white meat",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "General Tso's Chicken",
+            "image" : "img/lunch/L2.jpg",
+            "code" : "L2",
+            "info" : "chunks of chicken, breaded and deep-fried with sauce and scallions; white meat by request, $1 extra for white meat",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Chicken Cashewnuts",
+            "image" : "img/lunch/L3.jpg",
+            "code" : "L3",
+            "info" : "diced chicken with waterchestnuts, green peppers, and celery, and cashewnuts; white meat by request, $1 extra for white meat",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Kung Pao Chicken",
+            "image" : "img/lunch/L4.jpg",
+            "code" : "L4",
+            "info" : "Dark meat chicken sauteed with carrots and celery, in a spicy Szechuan sauce, $1 more for white meat chicken",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Chicken String Bean",
+            "image" : "img/lunch/L5.jpg",
+            "code" : "L5",
+            "info" : "white meat chicken sauteed with string beans and soy sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Chicken Vegetable",
+            "image" : "img/lunch/L6.jpg",
+            "code" : "L6",
+            "info" : "white meat chicken in a clear white sauce sauteed with mixed vegetables",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Chicken Garlic Sauce",
+            "image" : "img/lunch/L7.jpg",
+            "code" : "L7",
+            "info" : "chicken sauteed with string beans, mushrooms, and waterchestnuts in garlic sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Chicken Eggplant with Garlic Sauce",
+            "image" : "img/lunch/L8.jpg",
+            "code" : "L8",
+            "info" : "white meat chicken, string beans, waterchestnuts, mushrooms, and eggplant, in garlic sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Sweet and Sour Chicken",
+            "image" : "img/lunch/L9.jpg",
+            "code" : "L9",
+            "info" : "white meat chicken, breaded and fried with some green pepper, onion, and pineapples",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Chicken Broccoli",
+            "image" : "img/lunch/L10.jpg",
+            "code" : "L10",
+            "info" : "white meat chicken sauteed with broccoli in brown sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Hunan Chicken",
+            "image" : "img/lunch/L11.jpg",
+            "code" : "L11",
+            "info" : "white meat chicken sauteed with broccoli, mushrooms, and baby corn in Hunan sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Szechuan Chicken",
+            "image" : "img/lunch/L12.jpg",
+            "code" : "L12",
+            "info" : "white meat chicken sauteed with carrots, celery, and bean sprouts in Szechuan sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Hunan Beef",
+            "image" : "img/lunch/L13.jpg",
+            "code" : "L13",
+            "info" : "beef sauteed with broccoli, mushrooms, and carrots in spicy Hunan sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Beef with Broccoli",
+            "image" : "img/lunch/L14.jpg",
+            "code" : "L14",
+            "info" : "sliced beef sauteed with broccoli in brown sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Beef with Garlic Sauce",
+            "image" : "img/lunch/L15.jpg",
+            "code" : "L15",
+            "info" : "sliced beef sauteed in garlic sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Beef String Bean",
+            "image" : "img/lunch/L16.jpg",
+            "code" : "L16",
+            "info" : "sliced beef sauteed with string beans and onions",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Beef with Green Pepper",
+            "image" : "img/lunch/L17.jpg",
+            "code" : "L17",
+            "info" : "sliced beef sauteed with green peppers and onions in brown sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Veal with Mixed Vegetables",
+            "image" : "img/lunch/L18.jpg",
+            "code" : "L18",
+            "info" : "sliced veal sauteed with carrots, broccoli, snow peas, string beans, water chestnuts, and mushrooms in brown sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Hunan Bean Curd",
+            "image" : "img/lunch/L19.jpg",
+            "code" : "L19",
+            "info" : "bean curd lightly fried then sauteed with green pepper, snow peas, and water chestnuts in brown sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Bean Curd with Vegetables",
+            "image" : "img/lunch/L20.jpg",
+            "code" : "L20",
+            "info" : "Tofu lightly breaded and fried and sauteed with carrots, broccoli, snow peas, string beans, water chestnuts, and mushrooms in brown sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Wok's Mixed Vegetables",
+            "image" : "img/lunch/L21.jpg",
+            "code" : "L21",
+            "info" : "broccoli, carrots, baby corn, water chestnuts, mushrooms, and snow peas sauteed in brown sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Szechuan String Bean",
+            "image" : "img/lunch/L22.jpg",
+            "code" : "L22",
+            "info" : "onions and string beans sauteed with chef's sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Eggplant with Garlic Sauce",
+            "image" : "img/lunch/L23.jpg",
+            "code" : "L23",
+            "info" : "eggplant sauteed with water chestnuts and string beans in garlic sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Chicken Mei Fan",
+            "image" : "img/lunch/L24.jpg",
+            "code" : "L24",
+            "info" : "white meat chicken sauteed with onions and bean sprouts",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Chow Mein",
+            "image" : "img/lunch/L26.jpg",
+            "code" : "L26",
+            "info" : "white meat chicken OR beef OR vegetables, sauteed with bean sprouts, onions, and celery in white sauce",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Lo Mein",
+            "image" : "img/lunch/L27.jpg",
+            "code" : "L27",
+            "info" : "white meat chicken OR beef OR vegetables, sauteed with onions, and bean sprouts and soft lo mein noodles",
+            "has2prices": false,
+            "price1" : "13.95"
+        },
+        {
+            "name" : "Sesame Chicken",
+            "image" : "img/lunch/L28.jpg",
+            "code" : "L28",
+            "info" : "chunks of chicken, breaded and deep-fried with a sesame seed sauce. White meat $1 extra.",
+            "has2prices": false,
+            "price1" : "13.95"
+        }
+    ],
+    "Appetizers Menu" : [
+        {
+            "name" : "Beef Egg Roll",
+            "image" : "img/appetizers/B1.jpg",
+            "code" : "B1",
+            "info" : "eggroll with cabbage, carrots and beef",
+            "has2prices": false,
+            "price1" : "4.25"
+        },
+        {
+            "name" : "Spring Roll (1)",
+            "image" : "img/appetizers/B2.jpg",
+            "code" : "B2",
+            "info" : "thin wraps with white meat and cabbage",
+            "has2prices": false,
+            "price1" : "4.25"
+        },
+        {
+            "name" : "Vegetable Egg Roll (1)",
+            "image" : "img/appetizers/B3.jpg",
+            "code" : "B3",
+            "info" : "cabbage and carrots in eggroll wrappers",
+            "has2prices": false,
+            "price1" : 3.75
+        },
+        {
+            "name" : "Fried Won Ton with Chicken Meat (6)",
+            "image" : "img/appetizers/B4.jpg",
+            "code" : "B4",
+            "info" : "triangle shaped won ton with ground white meat chicken inside",
+            "has2prices": false,
+            "price1" : 13.95
+        },
+        {
+            "name" : "Chicken Toast (4)",
+            "image" : "img/appetizers/B5.jpg",
+            "code" : "B5",
+            "info" : "ground chicken meat on bread, deep-fried, comes with 4 pieces",
+            "has2prices": false,
+            "price1" : 13.95
+        },
+        {
+            "name" : "Fried Silky Tofu with Special Garlic Sauce",
+            "image" : "img/appetizers/B6.jpg",
+            "code" : "B6",
+            "info" : "4 large tofu cubes, breaded and deep-fried, with garlic sauce on the side",
+            "has2prices": false,
+            "price1" : 3.95
+        },
+        {
+            "name" : "Scallion Pancake",
+            "image" : "img/appetizers/B7.jpg",
+            "code" : "B7",
+            "info" : "dough mixed with scallion and pan-fried",
+            "has2prices": false,
+            "price1" : 14.95
+        },
+        {
+            "name" : "Steamed (or Pan Fried) Chicken Dumplings (6)",
+            "image" : "img/appetizers/B8.jpg",
+            "code" : "B8",
+            "info" : "house-made dough dumpling with chicken",
+            "has2prices": false,
+            "price1" : 14.95
+        },
+        {
+            "name" : "Steamed (or Pan Fried) Vegetable Dumplings (6)",
+            "image" : "img/appetizers/B9.jpg",
+            "code" : "B9",
+            "info" : "house-made dough dumpling with carrot, mushroom, cellophane noodles, cabbage (6 pieces)",
+            "has2prices": false,
+            "price1" : 14.95
+        },
+        {
+            "name" : "Szechuan Soft Won Ton (8)",
+            "image" : "img/appetizers/B10.jpg",
+            "code" : "B10",
+            "info" : "soft won tons filled with chicken, with garlic sauce",
+            "has2prices": false,
+            "price1" : 14.95
+        },
+        {
+            "name" : "Chicken in Soothing Lettuce Wraps",
+            "image" : "img/appetizers/B11.jpg",
+            "code" : "B11",
+            "info" : "white-meat chicken with mushrooms, green peppers, water chestnuts, carrots sauteed with special house sauce, wrapped in fresh lettuce",
+            "has2prices": false,
+            "price1" : 15.95
+        },
+        {
+            "name" : "Teriyaki Beef (6)",
+            "image" : "img/appetizers/B12.jpg",
+            "code" : "B12",
+            "info" : "6 pieces of beef on skewers with teriyaki sauce",
+            "has2prices": false,
+            "price1" : 13.95
+        },
+        {
+            "name" : "Fried Chicken Wing (6)",
+            "image" : "img/appetizers/B13.jpg",
+            "code" : "B13",
+            "info" : "6 pieces of curry-flavored chicken wings",
+            "has2prices": false,
+            "price1" : 10.95
+        },
+        {
+            "name" : "B.B.Q. Spareribs",
+            "image" : "img/appetizers/B14.jpg",
+            "code" : "B14",
+            "info" : "marinated grilled roast barbeque ribs",
+            "has2prices": false,
+            "price1" : 18.95
+        },
+        {
+            "name" : "Pu Pu Platter (for 2)",
+            "image" : "img/appetizers/B15.jpg",
+            "code" : "B15",
+            "info" : "2 spring egg rolls, 2 fried won tons, 2 BBQ ribs, 2 chicken toast, 2 teriyaki beef",
+            "has2prices": false,
+            "price1" : 25.95
+        },
+        {
+            "name" : "Cold Sesame Noodle",
+            "image" : "img/appetizers/B16.jpg",
+            "code" : "B16",
+            "info" : "Peanut butter sauce and sesame seeds on lo mein noodles",
+            "has2prices": false,
+            "price1" : 13.95
+        }
+    ],
+    "Specials Menu" : [
+        {
+            "name" : "Chinese Scallion Pancake Wrap",
+            "image" : "img/specials/SP1.jpg",
+            "code" : "SP1",
+            "info" : "with choice of string bean, string bean chicken, string bean beef, beef onions, moo shu vegetable",
+            "has2prices": false,
+            "price1" : 27.95
+        },
+        {
+            "name" : "Teriyaki Chicken",
+            "image" : "img/specials/SP2.jpg",
+            "code" : "SP2",
+            "info" : "marinated grilled chicken breast with vegetables and lo mein on the side",
+            "has2prices": false,
+            "price1" : 24.95
+        },
+        {
+            "name" : "Vegetable Tempura",
+            "image" : "img/specials/SP3.jpg",
+            "code" : "SP3",
+            "info" : "assorted vegetables breaded and fried, served with lo mein on the side",
+            "has2prices": false,
+            "price1" : 25.95
+        },
+        {
+            "name" : "Orange Chicken and Beef Combo",
+            "image" : "img/specials/SP4.jpg",
+            "code" : "SP4",
+            "info" : "white meat chicken and beef, breaded and deep-fried with special house sauce; served with lo mein and vegetables",
+            "has2prices": false,
+            "price1" : 26.95
+        },
+        {
+            "name" : "Happy Family",
+            "image" : "img/specials/SP5.jpg",
+            "code" : "SP5",
+            "info" : "beef, veal, and chicken sauteed with mixed vegetables in chef's special sauce; lo mein served on the side",
+            "has2prices": false,
+            "price1" : 26.95
+        },
+        {
+            "name" : "Grilled Veal",
+            "image" : "img/specials/SP6.jpg",
+            "code" : "SP6",
+            "info" : "marinated and grilled veal served with vegetables and lo mein on the side",
+            "has2prices": false,
+            "price1" : 25.95
+        },
+        {
+            "name" : "Orange Beef",
+            "image" : "img/specials/SP7.jpg",
+            "code" : "SP7",
+            "info" : "a few cuts of beef, breaded, deep-fried with sauce containing orange peels; served with lo mein on the side",
+            "has2prices": false,
+            "price1" : 25.95
+        },
+        {
+            "name" : "Sesame Beef",
+            "image" : "img/specials/SP8.jpg",
+            "code" : "SP8",
+            "info" : "a few cuts of beef, breaded, deep-fried with sauce containing sesame seeds; served with lo mein on the side",
+            "has2prices": false,
+            "price1" : 25.95
+        }
+    ],
+    "Chicken Menu" : [
+        {
+            "name" : "Orange Chicken",
+            "image" : "img/chicken/C1.jpg",
+            "code" : "C1",
+            "info" : "chunks of chicken, breaded and deep-fried with sauce containing orange peels; white meat by request and $1 extra for a pint and $2 extra for a large",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "General Tso's Chicken",
+            "image" : "img/chicken/C2.jpg",
+            "code" : "C2",
+            "info" : "chunks of chicken, breaded and deep-fried with sauce and scallions; white meat by request and pay $1 extra for a pint and $2 for a large.",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "White Meat Chicken with String Bean",
+            "image" : "img/chicken/C3.jpg",
+            "code" : "C3",
+            "info" : "white meat chicken sauteed with string beans and soy sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "White Meat Chicken with Eggplant In Garlic Sauce",
+            "image" : "img/chicken/C4.jpg",
+            "code" : "C4",
+            "info" : "white meat chicken, string beans, waterchestnuts, mushrooms, and eggplant, in garlic sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Chicken Cashewnuts",
+            "image" : "img/chicken/C5.jpg",
+            "code" : "C5",
+            "info" : "diced chicken with waterchestnuts, green peppers, and celery, and cashewnuts; white meat by request: for pint $1 extra, for large $2 extra",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "White Meat Chicken with Fresh Vegetables",
+            "image" : "img/chicken/C6.jpg",
+            "code" : "C6",
+            "info" : "white meat chicken in a clear white sauce sauteed with mixed vegetables",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Sesame Chicken",
+            "image" : "img/chicken/C7.jpg",
+            "code" : "C7",
+            "info" : "chunks of chicken, breaded and deep-fried with a sesame seed sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Hunan Chicken",
+            "image" : "img/chicken/C8.jpg",
+            "code" : "C8",
+            "info" : "white meat chicken sauteed with broccoli, mushrooms, and baby corn in Hunan sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Szechuan Chicken",
+            "image" : "img/chicken/C9.jpg",
+            "code" : "C9",
+            "info" : "white meat chicken sauteed with carrots, celery, and bean sprouts in Szechuan sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Kung Pao Chicken",
+            "image" : "img/chicken/C10.jpg",
+            "code" : "C10",
+            "info" : "diced chicken sauteed with peanuts, and celery in delicious kung pao sauce; white meat by request and pay $1 extra for a pint and $2 extra for a large.",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "White Meat Chicken with Garlic Sauce",
+            "image" : "img/chicken/C11.jpg",
+            "code" : "C11",
+            "info" : "chicken sauteed with string beans, mushrooms, and waterchestnuts in garlic sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 22.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Dry Shredded Chicken",
+            "image" : "img/chicken/C12.jpg",
+            "code" : "C12",
+            "info" : "white meat chicken lightly breaded and fried until crip, then sauteed with celery and carrots in a special chef's sauce",
+            "has2prices": true,
+            "price1" : 18.95,
+            "label1" : "pint",
+            "price2" : 22.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Moo Shu Chicken",
+            "image" : "img/chicken/C13.jpg",
+            "code" : "C13",
+            "info" : "white meat chicken sauteed with shredded cabbage, mushrooms and eggs, then wrapped with pancake and delicious plum sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Moo Goo Gau Pan",
+            "image" : "img/chicken/C14.jpg",
+            "code" : "C14",
+            "info" : "white meat chicken sauteed with broccoli, snow peas, mushrooms, and waterchestnuts in a white sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Sweet and Sour Chicken",
+            "image" : "img/chicken/C15.jpg",
+            "code" : "C15",
+            "info" : "white meat chicken, breaded and fried with some green pepper, onion, and pineapples",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Chicken with Broccoli",
+            "image" : "img/chicken/C16.jpg",
+            "code" : "C16",
+            "info" : "white meat chicken sauteed with broccoli in brown sauce",
+            "has2prices": true,
+            "price1" : 18.95,
+            "label1" : "pint",
+            "price2" : 22.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Lemon Chicken",
+            "image" : "img/chicken/C17.jpg",
+            "code" : "C17",
+            "info" : "white meat chicken breaded and fried, served with lemon sauce on the side",
+            "has2prices": true,
+            "price1" : 18.95,
+            "label1" : "pint",
+            "price2" : 22.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Eight Treasure Chicken",
+            "image" : "img/chicken/C18.jpg",
+            "code" : "C18",
+            "info" : "diced chicken sauteed with mushrooms, waterchestnuts, celery, peas, carrots, peanuts, and cahsews in a chef's sauce; white meat by request and pay $1 extra for a pint and $2 for a large",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Salt & Pepper Chicken",
+            "image" : "img/chicken/C19.jpg",
+            "code" : "C19",
+            "info" : "chunks of chicken breaded and fried, the sauteed with green peppers",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        }
+    ],
+    "Beef Menu" : [
+        {
+            "name" : "Beef Broccoli",
+            "image" : "img/beef/F1.jpg",
+            "code" : "F1",
+            "info" : "sliced beef sauteed with broccoli in brown sauce",
+            "has2prices": true,
+            "price1" : 18.95,
+            "label1" : "pint",
+            "price2" : 22.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Hunan Beef",
+            "image" : "img/beef/F2.jpg",
+            "code" : "F2",
+            "info" : "beef sauteed with broccoli, mushrooms, and carrots in spicy Hunan sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Szechuan Beef",
+            "image" : "img/beef/F3.jpg",
+            "code" : "F3",
+            "info" : "beef sauteed with carrots and celery, in a spicy Szechuan sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Beef with Mixed Vegetables",
+            "image" : "img/beef/F4.jpg",
+            "code" : "F4",
+            "info" : "sliced beef sauteed with broccoli, carrots, snow peas, mushrooms and baby corns",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Beef with Garlic Sauce",
+            "image" : "img/beef/F5.jpg",
+            "code" : "F5",
+            "info" : "sliced beef sauteed in garlic sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Beef with Eggplant in Garlic Sauce",
+            "image" : "img/beef/F6.jpg",
+            "code" : "F6",
+            "info" : "sliced beef sauteed with eggplant in garlic sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Beef with Snow Peas",
+            "image" : "img/beef/F7.jpg",
+            "code" : "F7",
+            "info" : "sliced beef sauteed with snow peas in brown sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Beef with Green Pepper",
+            "image" : "img/beef/F8.jpg",
+            "code" : "F8",
+            "info" : "sliced beef sauteed with green peppers and onions in brown sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Kung Pao Beef",
+            "image" : "img/beef/F9.jpg",
+            "code" : "F9",
+            "info" : "sliced beef sauteed with peanuts and celery in delicious Kung Pao sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Mongolian Beef",
+            "image" : "img/beef/F10.jpg",
+            "code" : "F10",
+            "info" : "sliced beef sauteed with bamboo shoots, onions, and green onions in chef's sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Moo Shu Beef",
+            "image" : "img/beef/F11.jpg",
+            "code" : "F11",
+            "info" : "sliced beef sauteed with shredded cabbage, mushrooms and eggs, then wrapped with pancake and delicious plum sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Beef with String Bean",
+            "image" : "img/beef/F12.jpg",
+            "code" : "F12",
+            "info" : "sliced beef sauteed with string beans and onions",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 21.95,
+            "label2" : "large"
+        }
+    ],
+    "Veal Menu" : [
+        {
+            "name" : "Hunan Veal",
+            "image" : "img/veal/V1.jpg",
+            "code" : "V1",
+            "info" : "veal sauteed with broccoli, mushrooms, and carrots in spicy Hunan sauce",
+            "has2prices": true,
+            "price1" : 18.95,
+            "label1" : "pint",
+            "price2" : 24.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Veal with Mixed Vegetables",
+            "image" : "img/veal/V2.jpg",
+            "code" : "V2",
+            "info" : "sliced veal sauteed with carrots, broccoli, snow peas, string beans, water chestnuts, and mushrooms in brown sauce",
+            "has2prices": true,
+            "price1" : 18.95,
+            "label1" : "pint",
+            "price2" : 24.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Veal with Garlic Sauce",
+            "image" : "img/veal/V3.jpg",
+            "code" : "V3",
+            "info" : "sliced veal sauteed with mushrooms, string beans, and water chestnuts in garlic sauce",
+            "has2prices": true,
+            "price1" : 18.95,
+            "label1" : "pint",
+            "price2" : 24.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Kung Pao Veal",
+            "image" : "img/veal/V4.jpg",
+            "code" : "V4",
+            "info" : "sliced veal sauteed with peanuts and celery in delicious Kung Pao sauce",
+            "has2prices": true,
+            "price1" : 18.95,
+            "label1" : "pint",
+            "price2" : 24.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Mongolian Veal",
+            "image" : "img/veal/V5.jpg",
+            "code" : "V5",
+            "info" : "veal sauteed with onions, green onions, and bamboo shoots in chef's sauce",
+            "has2prices": true,
+            "price1" : 18.95,
+            "label1" : "pint",
+            "price2" : 24.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Veal with Green Peppers",
+            "image" : "img/veal/V6.jpg",
+            "code" : "V6",
+            "info" : "sliced veal sauteed with onions and green peppers in brown sauce",
+            "has2prices": true,
+            "price1" : 18.95,
+            "label1" : "pint",
+            "price2" : 24.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Szechuan Veal",
+            "image" : "img/veal/V7.jpg",
+            "code" : "V7",
+            "info" : "veal sauteed with carrots, celery, and bean sprouts in Szechuan sauce",
+            "has2prices": true,
+            "price1" : 18.95,
+            "label1" : "pint",
+            "price2" : 24.95,
+            "label2" : "large"
+        }
+    ],
+    "Duck Menu" : [
+        {
+            "name" : "Peking Duck",
+            "image" : "img/duck/DK1.jpg",
+            "code" : "DK1",
+            "info" : "marinated duck roasted crisp and served with pancake and green onion with special sauce",
+            "has2prices": true,
+            "price1" : 30.95,
+            "label1" : "half",
+            "price2" : 54.95,
+            "label2" : "whole"
+        },
+        {
+            "name" : "Crispy Duck",
+            "image" : "img/duck/DK2.jpg",
+            "code" : "DK2",
+            "info" : "boneless duck meat, lightly breaded, deep fried to a crisp, topped with vegetables in chef's special sauce",
+            "has2prices": false,
+            "price1" : 34.95
+        },
+        {
+            "name" : "Duck with Vegetables",
+            "image" : "img/veal/V2.jpg",
+            "code" : "V2",
+            "info" : "sliced lean duck meat sauteed with mixed vegtables in brown sauce",
+            "has2prices": false,
+            "price1" : 34.95
+        }
+    ],
+    "Vegetables Menu" : [
+        {
+            "name" : "Wok's Mixed Vegetables",
+            "image" : "img/vegetables/VG1.jpg",
+            "code" : "VG1",
+            "info" : "broccoli, carrots, baby corn, water chestnuts, mushrooms, and snow peas sauteed in brown sauce",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Sauteed String Beans, Szechuan",
+            "image" : "img/vegetables/VG2.jpg",
+            "code" : "VG2",
+            "info" : "onions and string beans sauteed with chef's sauce",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Eggplant in Garlic Sauce",
+            "image" : "img/vegetables/VG3.jpg",
+            "code" : "VG3",
+            "info" : "eggplant sauteed with water chestnuts and string beans in garlic sauce",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Crispy Eggplant in Garlic Sauce",
+            "image" : "img/vegetables/VG4.jpg",
+            "code" : "VG4",
+            "info" : "breaded and fried eggplants sauteed in sweet garlic sauce and sesame seeds",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Broccoli Sauteed wtih Mushrooms in Light Sauce",
+            "image" : "img/vegetables/VG5.jpg",
+            "code" : "VG5",
+            "info" : "broccoli sauteed with fresh mushrooms in white sauce",
+            "has2prices": true,
+            "price1" : 16.95,
+            "label1" : "pint",
+            "price2" : 19.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Moo Shu Vegetables",
+            "image" : "img/vegetables/VG6.jpg",
+            "code" : "VG6",
+            "info" : "shredded cabbage sauteed with mushrooms, carrots, and scrambled eggs",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Sauteed Snow Peas & Waterchestnuts in Brown Sauce",
+            "image" : "img/vegetables/VG7.jpg",
+            "code" : "VG7",
+            "info" : "snow peas and water chestnuts sauteed in brown sauce",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Bean Curd, Szechuan Style",
+            "image" : "img/vegetables/VG8.jpg",
+            "code" : "VG8",
+            "info" : "silky soft bean curd braised in chef's brown sauce",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Bean Curd, Hunan Style",
+            "image" : "img/vegetables/VG9.jpg",
+            "code" : "VG9",
+            "info" : "bean curd lightly fried then sauteed with green pepper, snow peas, and water chestnuts in brown sauce",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Bean Curd with Mixed Vegetables",
+            "image" : "img/vegetables/VG10.jpg",
+            "code" : "VG10",
+            "info" : "tofu lightly breaded and fried and sauteed with carrots, broccoli, snow peas, string beans, water chestnuts, and mushrooms in brown sauce",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Bean Curd with Mushrooms",
+            "image" : "img/vegetables/VG11.jpg",
+            "code" : "VG11",
+            "info" : "bean curd sauteed with black mushrooms and regular mushrooms in brown sauce",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Orange Bean Curd",
+            "image" : "img/vegetables/VG12.jpg",
+            "code" : "VG12",
+            "info" : "tofu lightly breaded and fried and sauteed with orange peel in sweet brown sauce",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Bean Curd with Eggplant in Garlic Sauce",
+            "image" : "img/vegetables/VG11.jpg",
+            "code" : "VG13",
+            "info" : "tofu lightly breaded and fried and sauteed with water chestnuts, string beans, and mushrooms in garlic sauce",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Sauteed Bean Sprouts",
+            "image" : "img/vegetables/VG14.jpg",
+            "code" : "VG14",
+            "info" : "fresh bean sprouts sauteed with scallions",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        }
+    ],
+    "Lo Mein Menu" : [
+        {
+            "name" : "Vegetable Lo Mein",
+            "image" : "img/lo-mein/NL1.jpg",
+            "code" : "NL1",
+            "info" : "broccoli, carrots, onions, snow peas, and bean sprouts sauteed with soft lo mein noodles",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Chicken Lo Mein",
+            "image" : "img/lo-mein/NL2.jpg",
+            "code" : "NL2",
+            "info" : "white meat chicken, onions, and bean sprouts sauteed with soft lo mein noodles",
+            "has2prices": true,
+            "price1" : 16.95,
+            "label1" : "pint",
+            "price2" : 19.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Beef Lo Mein",
+            "image" : "img/lo-mein/NL3.jpg",
+            "code" : "NL3",
+            "info" : "beef, onions, and bean sprouts sauteed with soft lo mein noodles",
+            "has2prices": true,
+            "price1" : 16.95,
+            "label1" : "pint",
+            "price2" : 19.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Veal Lo Mein",
+            "image" : "img/lo-mein/NL3.jpg",
+            "code" : "NL4",
+            "info" : "veal, onions, and bean sprouts sauteed with soft lo mein noodles",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 20.95,
+            "label2" : "large"
+        }
+    ],
+    "Mei Fan Menu" : [
+        {
+            "name" : "Vegetable Mei Fan",
+            "image" : "img/mei-fan/NF10.jpg",
+            "code" : "NF10",
+            "info" : "broccoli, snow peas, onions, and bean sprouts sauteed with rice noodles",
+            "has2prices": false,
+            "price1" : 18.95
+        },
+        {
+            "name" : "Chicken Mei Fan",
+            "image" : "img/mei-fan/NF11.jpg",
+            "code" : "NF11",
+            "info" : "white meat chicken sauteed with onions and bean sprouts",
+            "has2prices": false,
+            "price1" : 21.95
+        },
+        {
+            "name" : "Beef Mei Fan",
+            "image" : "img/mei-fan/NF12.jpg",
+            "code" : "NF12",
+            "info" : "beef sauteed with onions and bean sprouts",
+            "has2prices": false,
+            "price1" : 21.95
+        },
+        {
+            "name" : "House Special Mei Fan",
+            "image" : "img/mei-fan/NF13.jpg",
+            "code" : "NF13",
+            "info" : "white meat chicken, beef, and veal sauteed with onions and bean sprouts",
+            "has2prices": false,
+            "price1" : 24.95
+        }
+    ],
+    "Pan Fried Noodles Menu" : [
+        {
+            "name" : "Pan Fried Noodles with Vegetables",
+            "image" : "img/pan-fried-noodles/PF1.jpg",
+            "code" : "PF1",
+            "info" : "broccoli, snow peas, mushrooms, water chestnuts, and carrots sauteed with brown sauce on a bed of crispy crunchy noodles",
+            "has2prices": false,
+            "price1" : 19.95
+        },
+        {
+            "name" : "Pan Fried Noodles with Chicken",
+            "image" : "img/pan-fried-noodles/PF2.jpg",
+            "code" : "PF2",
+            "info" : "white meat chicken sauteed with broccoli, snow peas, mushrooms, water chestnuts, and carrots with brown sauce on a bed of crispy crunchy noodles",
+            "has2prices": false,
+            "price1" : 22.95
+        },
+        {
+            "name" : "Pan Fried Noodles with Beef",
+            "image" : "img/pan-fried-noodles/PF3.jpg",
+            "code" : "PF3",
+            "info" : "sliced beef sauteed with broccoli, snow peas, mushrooms, water chestnuts, and carrots with brown sauce on a bed of crispy crunchy noodles",
+            "has2prices": false,
+            "price1" : 22.95
+        },
+        {
+            "name" : "Pan Fried Noodleswith Veal",
+            "image" : "img/pan-fried-noodles/PF4.jpg",
+            "code" : "PF4",
+            "info" : "sliced veal sauteed with broccoli, snow peas, mushrooms, water chestnuts, and carrots with brown sauce on a bed of crispy crunchy noodles",
+            "has2prices": false,
+            "price1" : 23.95
+        },
+        {
+            "name" : "House Special Pan Fried Noodles",
+            "image" : "img/pan-fried-noodles/PF5.jpg",
+            "code" : "PF5",
+            "info" : "veal, beef, and chicken sauteed with broccoli, snow peas, mushrooms, water chestnuts, and carrots with brown sauce on a bed of crispy crunchy noodles",
+            "has2prices": false,
+            "price1" : 25.95
+        }
+    ],
+    "Fried Rice Menu": [
+        {
+            "name" : "Vegetable Fried Rice",
+            "image" : "img/fried-rice/FR1.jpg",
+            "code" : "FR1",
+            "info" : "broccoli, snow peas, onions, and bean sprouts sauteed with rice",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Chicken Fried Rice",
+            "image" : "img/fried-rice/FR2.jpg",
+            "code" : "FR2",
+            "info" : "white meat chicken sauteed with onions and bean sprouts with rice",
+            "has2prices": true,
+            "price1" : 16.95,
+            "label1" : "pint",
+            "price2" : 19.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Fried Rice",
+            "image" : "img/fried-rice/FR3.jpg",
+            "code" : "FR3",
+            "info" : "sliced beef sauteed with onions and bean sprouts with rice",
+            "has2prices": true,
+            "price1" : 16.95,
+            "label1" : "pint",
+            "price2" : 19.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Veal Fried Rice",
+            "image" : "img/fried-rice/FR4.jpg",
+            "code" : "FR4",
+            "info" : "sliced veal sauteed with onions and bean sprouts with rice",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 20.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "House Fried Rice",
+            "image" : "img/fried-rice/FR5.jpg",
+            "code" : "FR5",
+            "info" : "veal, beef, and chicken sauteed with onions and bean sprouts with rice",
+            "has2prices": true,
+            "price1" : 18.95,
+            "label1" : "pint",
+            "price2" : 22.95,
+            "label2" : "large"
+        }
+    ],
+    "Chow Mein Menu" : [
+        {
+            "name" : "Vegetable Chow Mein",
+            "image" : "img/chow-mein/CM1.jpg",
+            "code" : "CM1",
+            "info" : "broccoli, snow peas, onions, bean sprouts, and celery sauteed with white sauce",
+            "has2prices": true,
+            "price1" : 15.95,
+            "label1" : "pint",
+            "price2" : 18.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Chicken Chow Mein",
+            "image" : "img/chow-mein/CM2.jpg",
+            "code" : "CM2",
+            "info" : "white meat chicken sauteed with bean sprouts, onions, and celery in white sauce",
+            "has2prices": true,
+            "price1" : 16.95,
+            "label1" : "pint",
+            "price2" : 19.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Beef Chow Mein",
+            "image" : "img/chow-mein/CM3.jpg",
+            "code" : "CM3",
+            "info" : "beef sauteed with bean sprouts, onions, and celery in brown sauce",
+            "has2prices": true,
+            "price1" : 16.95,
+            "label1" : "pint",
+            "price2" : 19.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "Veal Chow Mein",
+            "image" : "img/chow-mein/CM4.jpg",
+            "code" : "CM4",
+            "info" : "veal sauteed with bean sprouts, onions, and celery in brown sauce",
+            "has2prices": true,
+            "price1" : 17.95,
+            "label1" : "pint",
+            "price2" : 20.95,
+            "label2" : "large"
+        },
+        {
+            "name" : "House Special Chow Mein",
+            "image" : "img/chow-mein/CM5.jpg",
+            "code" : "CM5",
+            "info" : "veal, beef, and chicken sauteed with bean sprouts, onions, and celery in brown sauce",
+            "has2prices": true,
+            "price1" : 18.95,
+            "label1" : "pint",
+            "price2" : 22.95,
+            "label2" : "large"
+        }
+    ],
+    "Sides Menu" : [
+        {
+            "name" : "Chicekn Nuggets with French Fries",
+            "image" : "img/sides/SO1.jpg",
+            "code" : "SO1",
+            "info" : "classic chicken nuggets and fries",
+            "has2prices": false,
+            "price1" : 13.95
+        },
+        {
+            "name" : "French Fries",
+            "image" : "img/sides/SO2.jpg",
+            "code" : "SO2",
+            "info" : "classic fries",
+            "has2prices": false,
+            "price1" : 7.95
+        },
+        {
+            "name" : "Brown Rice",
+            "image" : "img/sides/SO3.jpg",
+            "code" : "SO3",
+            "info" : "side of brown rice",
+            "has2prices": true,
+            "price1" : "4.50",
+            "label1" : "pint",
+            "price2" : "9.00",
+            "label2" : "large"
+        },
+        {
+            "name" : "White Rice",
+            "image" : "img/sides/SO4.jpg",
+            "code" : "SO4",
+            "info" : "side of white rice",
+            "has2prices": true,
+            "price1" : "4.50",
+            "label1" : "pint",
+            "price2" : "9.00",
+            "label2" : "large"
+        },
+        {
+            "name" : "Fried Rice",
+            "image" : "img/sides/SO5.jpg",
+            "code" : "SO5",
+            "info" : "side of fried rice",
+            "has2prices": true,
+            "price1" : "4.50",
+            "label1" : "pint",
+            "price2" : "9.00",
+            "label2" : "large"
+        },
+        {
+            "name" : "Fortune Cookies (12)",
+            "image" : "img/sides/SO6.jpg",
+            "code" : "SO6",
+            "info" : "individually wrapped cookies",
+            "has2prices": false,
+            "price1" : "4.00"
+        }
+    ],
+    "Desserts Menu" : [
+        {
+            "name" : "Chocolate Truffle Cake",
+            "image" : "img/desserts/DS1.jpg",
+            "code" : "SO6",
+            "info" : "Layers of German chocolate cake are soaked in rum to moist perfection. Extravagant amounts of chocolate create special truffle filling, and a superb chocolate ganache icing to cover this entire indulgence.",
+            "has2prices": false,
+            "price1" : "6.00 <span>slice</span>"
+        },
+        {
+            "name" : "Cappucino Apricot Cake",
+            "image" : "img/desserts/DS2.jpg",
+            "code" : "DS2",
+            "info" : "This cake combines coffee liquer and espresso cream complimented with a pure apricot jam, layered between cappuccino chiffon.",
+            "has2prices": false,
+            "price1" : "6.00 <span>slice</span>"
+        }
+    ],
+    "Dinner Menu" : [
+        {
+            "name" : "Orange Chicken",
+            "image" : "img/dinner/D1.jpg",
+            "code" : "D1",
+            "info" : "chunks of chicken, breaded and deep-fried with sauce containing orange peels; white meat by request and pay $1 extra",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "General Tso's Chicken",
+            "image" : "img/dinner/D2.jpg",
+            "code" : "D2",
+            "info" : "chunks of chicken, breaded and deep-fried with sauce and scallions; white meat by request and pay $1 extra",
+            "has2prices": false,
+            "price1" : 19.95
+        },
+        {
+            "name" : "Sesame Chicken",
+            "image" : "img/dinner/D3.jpg",
+            "code" : "D3",
+            "info" : "chunks of chicken, breaded and deep-fried with a sesame seed sauce; white meat on your request and pay $1 extra",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "Kung Pao Chicken",
+            "image" : "img/dinner/D4.jpg",
+            "code" : "D4",
+            "info" : "diced chicken sauteed with peanuts, and celery in delicious kung pao sauce; white meat by request and pay $1 extra",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "Chicken Cashewnuts",
+            "image" : "img/dinner/D5.jpg",
+            "code" : "D5",
+            "info" : "diced chicken with waterchestnuts, green peppers, and celery, and cashewnuts; white meat by request and pay $1 extra.",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "Chicken with Vegetables",
+            "image" : "img/dinner/D6.jpg",
+            "code" : "D6",
+            "info" : "white meat chicken in a clear white sauce",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "Sweet and Sour Chicken",
+            "image" : "img/dinner/D7.jpg",
+            "code" : "D7",
+            "info" : "white meat chicken, breaded and fried with some green pepper, onion, and pineapples",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "Beef Broccoli",
+            "image" : "img/dinner/D8.jpg",
+            "code" : "D8",
+            "info" : "sliced beef sauteed with broccoli in brown sauce",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "Beef with Garlic Sauce",
+            "image" : "img/dinner/D9.jpg",
+            "code" : "D9",
+            "info" : "sliced beef sauteed in garlic sauce",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "Beef with Fresh Vegetables",
+            "image" : "img/dinner/D10.jpg",
+            "code" : "D10",
+            "info" : "sliced beef sauteed with mixed vegetables",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "Veal with Fresh Vegetables",
+            "image" : "img/dinner/D11.jpg",
+            "code" : "D11",
+            "info" : "sliced veal sauteed with mixed vegetables",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "Veal with Garlic Sauce",
+            "image" : "img/dinner/D12.jpg",
+            "code" : "D12",
+            "info" : "sliced veal sauteed in garlic sauce",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "Hunan Bean Curd",
+            "image" : "img/dinner/D13.jpg",
+            "code" : "D13",
+            "info" : "bean curd lightly fried then sauteed with green pepper, snow peas, and water chestnuts in brown sauce",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "Bean Curd with Fresh Vegetables",
+            "image" : "img/dinner/D14.jpg",
+            "code" : "D14",
+            "info" : "Tofu lightly breaded and fried and sauteed with carrots, broccoli, snow peas, string beans, water chestnuts, and mushrooms in brown sauce",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "Mixed Vegetables",
+            "image" : "img/dinner/D15.jpg",
+            "code" : "D15",
+            "info" : "broccoli, carrots, baby corn, water chestnuts, mushrooms, and snow peas sauteed in brown sauce",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "Eggplant with Garlic Sauce",
+            "image" : "img/dinner/D16.jpg",
+            "code" : "D16",
+            "info" : "eggplant sauteed with water chestnuts and string beans in garlic sauce",
+            "has2prices": false,
+            "price1" : 19.95
+        },
+        {
+            "name" : "Lo Mein",
+            "image" : "img/dinner/D17.jpg",
+            "code" : "D17",
+            "info" : "onions, and bean sprouts sauteed with soft lo mein noodles",
+            "has2prices": false,
+            "price1" : 20.95
+        },
+        {
+            "name" : "Chow Mein",
+            "image" : "img/dinner/D18.jpg",
+            "code" : "D18",
+            "info" : "chow mein is sauteed with bean sprouts, onions, and celery in brown sauce or white sauce",
+            "has2prices": false,
+            "price1" : 20.95
+        }
+    ],
+    "Sushi Menu" : [
+        {
+            "name" : "Cucumber Sushi Roll",
+            "image" : "img/sushi/SR1.jpg",
+            "code" : "SR1",
+            "info" : "cucumber and rice wrapped in seaweed",
+            "has2prices": false,
+            "price1" : "6.50"
+        },
+        {
+            "name" : "Asparagus Sushi Roll",
+            "image" : "img/sushi/SR2.jpg",
+            "code" : "SR2",
+            "info" : "asparagus and rice wrapped in seaweed",
+            "has2prices": false,
+            "price1" : "6.50"
+        },
+        {
+            "name" : "Avacado Sushi Roll",
+            "image" : "img/sushi/SR3.jpg",
+            "code" : "SR3",
+            "info" : "avacado wrapped in rice",
+            "has2prices": false,
+            "price1" : "7.00"
+        },
+        {
+            "name" : "Garden Vegetable Sushi Roll",
+            "image" : "img/sushi/SR4.jpg",
+            "code" : "SR4",
+            "info" : "cucumber, asparagus, red pepper, shiitake mushroom",
+            "has2prices": false,
+            "price1" : "8.00"
+        },
+        {
+            "name" : "California Roll",
+            "image" : "img/sushi/SR5.jpg",
+            "code" : "SR5",
+            "info" : "Crab meat, avocado and cucumber",
+            "has2prices": false,
+            "price1" : "8.00"
+        },
+        {
+            "name" : "Salmon Sushi Roll",
+            "image" : "img/sushi/SR6.jpg",
+            "code" : "SR6",
+            "info" : "salmon and rice wrapped in seaweed",
+            "has2prices": false,
+            "price1" : "7.50"
+        },
+        {
+            "name" : "Tuna Sushi Roll",
+            "image" : "img/sushi/SR7.jpg",
+            "code" : "SR7",
+            "info" : "tuna and rice wrapped in seaweed",
+            "has2prices": false,
+            "price1" : "7.50"
+        },
+        {
+            "name" : "Yellowtail Sushi Roll",
+            "image" : "img/sushi/SR8.jpg",
+            "code" : "SR8",
+            "info" : "yellowtail and rice wrapped in seaweed",
+            "has2prices": false,
+            "price1" : "8.00"
+        },
+        {
+            "name" : "Salmon Skin & Cucumber Sushi Roll",
+            "image" : "img/sushi/SR9.jpg",
+            "code" : "SR9",
+            "info" : "salmon skin and cucumber wrapped in rice",
+            "has2prices": false,
+            "price1" : "9.50"
+        },
+        {
+            "name" : "Tuna and Avocado Sushi Roll",
+            "image" : "img/sushi/SR10.jpg",
+            "code" : "SR10",
+            "info" : "tuna and avocado wrapped in rice",
+            "has2prices": false,
+            "price1" : "8.50"
+        },
+        {
+            "name" : "Salmon and Avocado Sushi Roll",
+            "image" : "img/sushi/SR11.jpg",
+            "code" : "SR11",
+            "info" : "salmon and avacado wrapped in rice",
+            "has2prices": false,
+            "price1" : "8.50"
+        },
+        {
+            "name" : "Yellowtail and Avocado Sushi Roll",
+            "image" : "img/sushi/SR12.jpg",
+            "code" : "SR12",
+            "info" : "yellowtail and avocado wrapped in rice",
+            "has2prices": false,
+            "price1" : "8.50"
+        },
+        {
+            "name" : "Spicy Tuna Sushi Roll",
+            "image" : "img/sushi/SR13.jpg",
+            "code" : "SR13",
+            "info" : "spicy tuna and green onions wrapped in rice",
+            "has2prices": false,
+            "price1" : "8.50"
+        },
+        {
+            "name" : "Spicy Salmon Sushi Roll",
+            "image" : "img/sushi/SR14.jpg",
+            "code" : "SR14",
+            "info" : "chopped up salmon with some green onions",
+            "has2prices": false,
+            "price1" : "8.50"
+        },
+        {
+            "name" : "Fried Sweet Potato Sushi Roll",
+            "image" : "img/sushi/SR15.jpg",
+            "code" : "SR15",
+            "info" : "fried sweet potato wrapped in rice",
+            "has2prices": false,
+            "price1" : "8.50"
+        },
+        {
+            "name" : "Philadelphia Sushi Roll",
+            "image" : "img/sushi/SR16.jpg",
+            "code" : "SR16",
+            "info" : "smoked salmon, tofu cream cheese & cucumber",
+            "has2prices": false,
+            "price1" : "8.50"
+        }
+    ]
+}

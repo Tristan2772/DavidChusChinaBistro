@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>David Chu's China Bistro</title>
+    <link rel="icon" href="img/restaurant-logo.png">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header">
+        <nav>
+            <div class="logo">
+                <a href="index.html" onclick="showHomepage()">
+                    <img src="img/restaurant-logo.png" alt="David Chu's Restaurant Logo">
+                </a>
+                <div class="heading">
+                    <a href="index.html" onclick="showHomepage()">
+                        <h1>David Chu's China Bistro</h1>
+                    </a>                    
+                    <div>
+                        <img src="img/kosher-logo.png" alt="kosher logo">
+                        <p>Kosher Certified</p>
+                    </div>
+                </div>
+            </div>
+
+            <input type="checkbox" id="navbar-active">
+            <label for="navbar-active">
+                <i id="menu-btn" class='bx bx-menu'></i>
+            </label>
+
+            <ul id="nav-list">
+                <li id="home-navlink" class="active nav-link">
+                    <a href="index.html" onclick="showHomepage()">
+                        <i class='bx bxs-home' ></i>
+                        <p>Home</p>
+                    </a>
+                </li>
+                <li id="menu-navlink" class="nav-link">
+                    <a href="#" onclick="showMenu()">
+                        <i class='bx bxs-food-menu'></i>
+                        <p>Menu</p>
+                    </a>
+                </li>
+                <li id="about-navlink" class="nav-link">
+                    <a href="#" onclick="showAbout()">
+                        <i class='bx bxs-info-circle'></i>
+                        <p>About</p>
+                    </a>
+                </li>
+                <li id="nav-call">
+                    <a href="tel:+14106025008">(410) 602-5008</a>
+                    <p>*We Deliver</p>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Only visible on mobile screens -->
+    <div class="mobile-div">
+        <a href="tel:+14106025008" class="mobile-call">
+            
+            <p><i class='bx bxs-phone'></i>(410) 602-5008</p>
+            <p>*We Deliver</p>
+        </a>
+    </div>
+    
+    <section id="homepage">
+        <div class="hero-img" role="img" alt="interior of chinese restaurant"></div>
+
+        <div class="main-tiles">
+            <a onclick="showMenu()" class="tile"><span>Menu</span></a>
+            <a onclick="showRandomCategory()" class="tile"><span>Specials</span></a>
+            <div class="tile">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3084.6752467530728!2d-76.71426302404066!3d39.36359027162822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c81a14e7817803%3A0xab20a0e99daa17ea!2sDavid%20Chu&#39;s%20China%20Bistro!5e0!3m2!1sen!2sus!4v1733028529894!5m2!1sen!2sus" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                </iframe> 
+                <span>Map</span>
+            </div>
+        </div>
+    </section>
+
+    <section id="menu-categories">
+        <h2>Menu Categories</h2>
+        <p>Substituting white rice with brown rice or fried rice after 3:00pm will be $1.50 for a pint and $2.50 for a quart.</p>
+        <div class="container">
+            <a class="category" id="lunch" onclick="showCategory('Lunch Menu')">
+            <span>Lunch</span></a>
+            
+            <a class="category" id="soup" onclick="showCategory('Soup Menu')">
+            <span>Soup</span></a>
+            
+            <a class="category" id="appetizers" onclick="showCategory('Appetizers Menu')">
+            <span>Appetizers</span></a>
+            
+            <a class="category" id="specials" onclick="showCategory('Specials Menu')">
+            <span>Specials</span></a>
+            
+            <a class="category" id="chicken" onclick="showCategory('Chicken Menu')">
+            <span>Chicken</span></a>
+            
+            <a class="category" id="beef" onclick="showCategory('Beef Menu')">
+            <span>Beef</span></a>
+            
+            <a class="category" id="veal" onclick="showCategory('Veal Menu')">
+            <span>Veal</span></a>
+            
+            <a class="category" id="vegetables" onclick="showCategory('Vegetables Menu')">
+            <span>Vegetables</span></a>
+            
+            <a class="category" id="lo-mein" onclick="showCategory('Lo Mein Menu')">
+            <span>Lo Mein</span></a>
+            
+            <a class="category" id="mei-fan" onclick="showCategory('Mei Fan Menu')">
+            <span>Mei Fan</span></a>
+            
+            <a class="category" id="pan-fried" onclick="showCategory('Pan Fried Noodles Menu')">
+            <span>Pan Fried Noodles</span></a>
+            
+            <a class="category" id="fried-rice" onclick="showCategory('Fried Rice Menu')">
+            <span>Fried Rice</span></a>
+            
+            <a class="category" id="chow-mein" onclick="showCategory('Chow Mein Menu')">
+            <span>Chow Mein</span></a>
+            
+            <a class="category" id="sides" onclick="showCategory('Sides Menu')">
+            <span>Sides</span></a>
+            
+            <a class="category" id="desserts" onclick="showCategory('Desserts Menu')">
+            <span>Desserts</span></a>
+            
+            <a class="category" id="dinner" onclick="showCategory('Dinner Menu')">
+            <span>Dinner</span></a>
+            
+            <a class="category" id="sushi" onclick="showCategory('Sushi Menu')">
+            <span>Sushi</span></a>
+        </div>
+    </section>
+
+    <section id="menu-category">
+    </section>
+
+    <article id="about">
+        <h2>About this Website</h2>
+        <p>It may be hard to tell, but this website does much more than just help you choose a delicious dish from this cozy little restaurant. The website of this restaurant has served over 100,000 students all over the world (and counting), teaching them the skills of how to develop a website from scratch.
+            <br><br>
+        The development of this website was part of the curriculum of 2 Coursera.org courses: HTML, CSS, and Javascript for Web Developers and Single Page Web Applications with AngularJS. <br>
+        All courses have an option to be taken for free.
+        </p>
+    </article>
+
+    <footer>
+        <div class="ftr-container">
+            <div>
+                <h3>Hours:</h3>
+                <p>Sun-Thurs: 11:15am - 10:00pm</p>
+                <p>Fri: 11:15am - 2:30pm</p>
+                <p>Saturday: Closed</p>
+            </div>
+            <hr class="mobile-only">
+            <div>
+                <h3>Address:</h3>
+                <p>7105 Rierstown Road</p>
+                <p>Baltimore, MD 21215</p>
+                <p class="footer-info">* Delivery area within 3-4 miles, with minimum order of $20 plus $3 charge for all deliveries.</p>
+            </div>
+            <hr class="mobile-only">
+            <div class="testes">
+                <p>"The best Chinese restaurant I've been to! And that's saying a lot, since I've been to many."</p>
+                <p>"Amazing food! Great service! Couldn't ask for more! I'll be back again and again!"</p>
+            </div>
+        </div>
+        
+        <div class="copy">
+            <p>&copy; Copyright David Chu's China Bistro</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
