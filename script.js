@@ -13,6 +13,10 @@ document.getElementById("header").addEventListener("mouseleave", function() {
   document.getElementById("navbar-active").checked = false;
 });
 
+document.getElementById("header").addEventListener("blur", function() {
+  document.getElementById("navbar-active").checked = false;
+});
+
 function showHomepage() {
   homeNavLink.classList.add("active");
   menuNavLink.classList.remove("active");
