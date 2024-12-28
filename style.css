@@ -96,6 +96,7 @@ nav i.bx-menu{
     display: flex;
     flex-direction: row;
     margin: 20px 40px 90px 0;
+    overflow-x: hidden;
 }
 
 hr.mobile-only {
