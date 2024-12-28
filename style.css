@@ -722,6 +722,10 @@ body {
         padding: 10px;
     }
 
+    .nav-link.active {
+        border-radius: 0;
+    }
+
     .nav-link:hover{
         transform: scale(1.1);
     }
