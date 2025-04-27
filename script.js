@@ -104,12 +104,6 @@ function showCategory(menuCategory) {
   .catch(error => console.error('Error loading JSON:', error));
 }
 
-function showRandomCategory() {
-  let menuArr = ["Soup Menu", "Appetizers Menu", "Lunch Menu", "Specials Menu", "Chicken Menu", "Beef Menu", "Veal Menu", "Duck Menu", "Vegetables Menu", "Lo Mein Menu", "Mei Fan Menu", "Pan Fried Noodles Menu", "Fried Rice Menu", "Chow Mein Menu", "Sides Menu", "Desserts Menu", "Dinner Menu", "Sushi Menu"];
-  let randomIndex = Math.floor(Math.random() * menuArr.length);
-  showCategory(menuArr[randomIndex]);
-}
-
 function showAbout() {
   homeNavLink.classList.remove("active");
   aboutNavLink.classList.add("active");
