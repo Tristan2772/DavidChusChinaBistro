@@ -91,12 +91,12 @@ nav i.bx-menu{
 }
 
 #nav-list {
-    display: block;
     list-style-type: none;
     display: flex;
     flex-direction: row;
-    margin: 20px 40px 90px 0;
-    overflow-x: hidden;
+    margin: 20px 40px 0 0;
+    overflow: hidden;
+    z-index: 200;
 }
 
 hr.mobile-only {
@@ -107,14 +107,11 @@ hr.mobile-only {
     border-style: solid;
 }
 
-#nav-call {
-    text-align: center;
-    padding-left: 15px;
-}
 
 .nav-link{
     text-align: center;
     padding: 10px;
+    height: 86px;
 }
 
 .nav-link.active {
@@ -122,7 +119,7 @@ hr.mobile-only {
     border-radius: 5px;
     padding: 9px;
     border: #222 solid 2px;
-
+    
 }
 
 .nav-link.active a i, .nav-link.active a p{
@@ -151,6 +148,9 @@ hr.mobile-only {
 }
 
 #nav-call {
+    min-width: 235px;
+    height: 86px;
+    padding: 0 10px;
     color: var(--secondary-color);
     text-align: right;
     transition: 0.4s ease-in-out;
@@ -607,7 +607,7 @@ body {
 /* ----------Media Queries---------- */
 
 
-@media (max-width: 1100px){
+@media (max-width: 1115px){
     .heading a h1{
         font-size: 26px;
     }
@@ -622,7 +622,7 @@ body {
 
 }
 
-@media (max-width: 996px){
+@media (max-width: 1010px){
     
     header {
         height: 120px;
@@ -635,7 +635,7 @@ body {
     }
 }
 
-@media (max-width: 946px){
+@media (max-width: 955px){
     #nav-list {
         margin-right: 20px;
     }
@@ -660,7 +660,7 @@ body {
 
 }
 
-@media (max-width: 790px){
+@media (max-width: 795px){
 
     .heading a h1{
         font-size: 44px;
@@ -721,6 +721,7 @@ body {
         text-align: center;
         transition: 0.4s ease-in-out;
         padding: 10px;
+        height: auto;
     }
 
     .nav-link.active {
