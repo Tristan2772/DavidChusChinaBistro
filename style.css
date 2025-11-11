@@ -37,6 +37,8 @@ nav .logo {
 }
 
 .logo > a img {
+  height: 100px;
+  width: 100px;
     margin: 10px auto 10px 40px;
     transition: 0.4s ease-in-out;
 }
